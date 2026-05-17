@@ -12,4 +12,15 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
-/.idea
+
+# IDE / generated project files
+*.csproj
+*.sln
+*.sln.DotSettings.user
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Rider
+.idea/
